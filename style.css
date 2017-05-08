@@ -1,0 +1,33 @@
+.letter, .row, .cell {
+  display: inline-block
+}
+
+.letter {
+  width: 300px;
+  height: 300px;
+  font-size: 0;
+  margin: 10px;
+}
+
+.row {
+  width: 100%;
+  height: 20%;
+}
+
+.cell {
+  width: 20%;
+  height: 100%;
+  background-color: #FFF;
+}
+
+.jspink {
+  background-color: #e10079;
+}
+
+.jsblue {
+  background-color: #051add;
+}
+
+.jsblack {
+  background-color: #000;
+}
